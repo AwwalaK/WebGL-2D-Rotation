@@ -1,5 +1,5 @@
-@import url("https://webglfundamentals.org/webgl/resources/css/ui-lightness/jquery-ui-1.8.16.custom.css");
-@import url("https://webglfundamentals.org/webgl/resources/webgl-tutorials.css");
+@import url("../library/jquery-ui-1.8.16.custom.css");
+@import url("../library/webgl-tutorials.css");
 body {
   margin: 0;
 }
